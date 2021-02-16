@@ -1,0 +1,14 @@
+jupyter-book
+sympy
+numpy
+pandas
+matplotlib
+matplotlib_venn
+stemgraphic
+seaborn
+plotly
+findspark
+pyspark
+scikit-learn
+category-encoders
+networkx
